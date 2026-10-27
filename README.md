@@ -1,4 +1,4 @@
-# Tugas OOP Pertemuan 4 — Sistem Peminjaman Buku
+# Tugas OOP Pertemuan 4 (Sistem Peminjaman Buku)
 
 Project PHP berdasarkan tugas mandiri materi OOP: class `Buku`, `Anggota`, dan `Peminjaman`.
 
